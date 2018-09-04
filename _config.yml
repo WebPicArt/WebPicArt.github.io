@@ -1,9 +1,9 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://tryandfork.github.io/PicArt.github.io/
+baseurl: /PicArt.github.io/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: PicArt
+email: stefano.pica73@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Via Renato
+  - line: Roma 00137 Italy
 
 # Build settings
 markdown: kramdown

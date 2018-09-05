@@ -266,6 +266,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
+    height: 100%;                     /*! aggiunto io max image */
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -274,7 +275,7 @@ header {
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: 100% ;        /*cover;*/
+    background-size: cover;
     -o-background-size: cover;
 }
 
@@ -301,7 +302,7 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px ) {
-    background-size: 100%;                /*! aggiunto io max image */
+    /*    background-size: 100%;                ! aggiunto io max image */
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;

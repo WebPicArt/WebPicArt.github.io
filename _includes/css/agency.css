@@ -301,7 +301,6 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px ) {
-    background-size: 100%;    /*! aggiunto io max image */
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -323,6 +322,8 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     }
+    background-size: 100%;    /*! aggiunto io max image */
+    min-height: 100%;
 }
 
 section {

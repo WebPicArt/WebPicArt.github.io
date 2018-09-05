@@ -272,10 +272,10 @@ header {
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
     background-size: 100% 100% ; /*cover;*/   /*! aggiunto io max image */
-    -o-background-size: cover;
+    -o-background-size: 100% 100%;
 }
 
 header .intro-text {
@@ -301,7 +301,7 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px ) {
-    /*    background-size: 100%;                ! aggiunto io max image */
+   
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;

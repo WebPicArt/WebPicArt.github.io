@@ -274,7 +274,7 @@ header {
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: contain ; /*cover;*/   /*! aggiunto io max image */
+    background-size: 100% 100% ; /*cover;*/   /*! aggiunto io max image */
     -o-background-size: cover;
 }
 

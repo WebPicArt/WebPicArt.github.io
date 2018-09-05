@@ -300,7 +300,7 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
-@media(min-width:768px min-height: 100px) {        /*! aggiunto io max image */
+@media(min-width:768px min-height:100%) {        /*! aggiunto io max image */
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;

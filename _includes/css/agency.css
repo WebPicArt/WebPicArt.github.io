@@ -275,7 +275,7 @@ header {
     background-repeat: none;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
-    background-size: 1000% 1000%;
+    background-size: 100% 100%;
     -o-background-size: 100% 100%;
 }
 
@@ -302,6 +302,7 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px) {
+    height :100%;                      /*!___________----------------_________--------*/
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;

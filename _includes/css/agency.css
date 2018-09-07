@@ -266,7 +266,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height : 100px;              /*! --------agggg io------------- */
+    /*  height : 100px; */             /*! --------agggg io------------- */
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -275,7 +275,7 @@ header {
     background-repeat: none;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
-    background-size: 100% 100%;
+    background-size: 500px 500px;
     -o-background-size: 100% 100%;
 }
 

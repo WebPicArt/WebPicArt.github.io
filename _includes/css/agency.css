@@ -306,7 +306,8 @@ header .intro-text .intro-heading {
    
     header .intro-text {
         padding-top: 300px;
-        padding-bottom: 200px;
+       /* padding-bottom: 200px;  */
+        padding-bottom: 50px;
     }
 
     header .intro-text .intro-lead-in {

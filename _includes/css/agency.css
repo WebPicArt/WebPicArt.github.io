@@ -5,7 +5,7 @@
  */
 
 body {
-    height: 100%;
+   
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height: 100%;
+   
     text-align: center;
     color: #fff;
     background-attachment: scroll;

@@ -281,7 +281,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 120px;                    
+    padding-top: 100px;                    
     padding-bottom: 70px;                  
     
 }
@@ -298,7 +298,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 700;
     line-height: 50px;
 }

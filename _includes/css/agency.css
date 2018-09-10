@@ -312,7 +312,7 @@ header .intro-text .intro-heading {
    }                                   /*------------FINE ADD------------*/
        
        
-@media(min-width:320px) {              
+@media(max-width:320px) {              
    
     header .intro-text {
        padding-top: 150px;                                       /* padding-top: 300px;  */

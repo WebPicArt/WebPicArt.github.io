@@ -235,11 +235,11 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-@media(min-width:320px) {              /* -------------add-----------*/
+@media(min-width:768px) {            
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: #222;          /*   background-color: transparent;   */
+        background-color: transparent;   
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -306,8 +306,8 @@ header .intro-text .intro-heading {
 @media(min-width:320px) {               /*------------ADD------------*/
    
     header .intro-text {
-       padding-top: 300px;                                       /* padding-top: 300px;  */
-       padding-bottom: 250px;                                 /* padding-bottom: 250px; */           
+       padding-top: 150px;                                       /* padding-top: 300px;  */
+       padding-bottom: 50px;                                 /* padding-bottom: 250px; */           
         
     }
 

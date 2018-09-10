@@ -341,6 +341,7 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
+    color: red;                  /*~~~~ADD~~~~~*/
     margin-bottom: 75px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};

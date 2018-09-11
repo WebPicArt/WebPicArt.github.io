@@ -173,8 +173,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;                  /*------ADD-----*/
-    background-image: url('{{ site.baseurl }}/img/logoPICART.png');
+    background-color: #222;                                                    /*------ADD-----*/
+    background-image: url('{{ site.baseurl }}/img/logos/envato.jpg');
     background-position: center center;
     background-repeat: none;
 }

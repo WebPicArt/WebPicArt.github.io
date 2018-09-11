@@ -8,7 +8,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 
 # Team names, titles and social links
-people:
+
 #- name: #Kay Garland
  # pic: #1
   #position: #Lead Designer
@@ -19,9 +19,9 @@ people:
    #   url: #
    # - title: #stack-overflow
    #   url: #
-
+people:
 - name: Larry Parker
-  pic: 2
+  pic: 4
   position: Lead Marketer
   social:
     - title: twitter

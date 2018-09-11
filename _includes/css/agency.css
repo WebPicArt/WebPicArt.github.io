@@ -177,9 +177,9 @@ fieldset[disabled] .btn-xl.active {
 }
                                                                      /*---------ADD--------*/
 .navbar-default .navbar-brand {   
-    /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }}; */
-    background-image: url('{{ site.baseurl }}/img/logos/envato.jpg');
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #{{ site.data.template.color.primary }}; 
+   /* background-image: url('{{ site.baseurl }}/img/logos/envato.jpg'); */
 }
 
 .navbar-default .navbar-brand:hover,

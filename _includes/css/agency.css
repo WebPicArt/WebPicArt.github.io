@@ -173,15 +173,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;                                                    /*------ADD-----*/
-    background-image: url('{{ site.baseurl }}/img/logos/envato.jpg');
-    background-position: center center;
-    background-repeat: none;
+    background-color: #222;                                            
 }
 
 .navbar-default .navbar-brand {   
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
+    background-image: url('{{ site.baseurl }}/img/logos/envato.jpg');
 }
 
 .navbar-default .navbar-brand:hover,

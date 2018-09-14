@@ -284,6 +284,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-attachment: fixed;               /*-----ADD------*/
 }
 
 header .intro-text {

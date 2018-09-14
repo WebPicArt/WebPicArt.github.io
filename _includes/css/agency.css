@@ -18,7 +18,7 @@ body {
 .text-muted-service {
    /* color: #{{ site.data.template.#0000ff.muted }};*/
    font-family: {{ site.data.template.font.secondary }};
-   color: #e60000;
+   color: #00004d;
    font-style: italic;
 }
                                                                      /*------FINE ADD ------*/

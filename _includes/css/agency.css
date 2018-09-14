@@ -369,9 +369,9 @@ section h3.section-subheading-about {
     margin-bottom: 75px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 18px;
+    font-size: 20px;
     font-style: italic;
-    font-weight: 600;
+    font-weight: 300;
     
 }
                                                                /*~~~~fine ADD~~~~~*/

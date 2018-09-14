@@ -16,7 +16,7 @@ body {
 }
                                                                      /*--------ADD-------*/
 .text-muted-service {
-    color: #{{ site.data.template.red.muted }};
+    color: #{{ site.data.template.#0000ff.muted }};
 }
                                                                      /*------FINE ADD ------*/
 

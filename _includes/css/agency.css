@@ -364,7 +364,8 @@ section h3.section-subheading {
 
                                                                 /*~~~~ADD~~~~~*/
 section h3.section-subheading-about {
-    /*color: red;  */                                           
+    aling: center;
+    color: red;                                             
     margin-bottom: 75px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};

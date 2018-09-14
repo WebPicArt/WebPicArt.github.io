@@ -16,7 +16,10 @@ body {
 }
                                                                      /*--------ADD-------*/
 .text-muted-service {
-    color: #{{ site.data.template.#0000ff.muted }};
+   /* color: #{{ site.data.template.#0000ff.muted }};*/
+   font-family: {{ site.data.template.font.secondary }};
+   color: #0000ff;
+   font-style: italic;
 }
                                                                      /*------FINE ADD ------*/
 

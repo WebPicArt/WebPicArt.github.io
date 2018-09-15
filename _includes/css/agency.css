@@ -288,7 +288,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
    
-    
+    height: 30vh;
     /*transform: translateZ(-1px);*/
     position: fixed;
     z-index : -1;

@@ -189,7 +189,7 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.primary }}; 
    /* background-image: url('{{ site.baseurl }}/img/logos/envato.jpg'); */
    border-radius: 8px;
-   img src="url('{{ site.baseurl }}/img/logoPICART_100px.png')";
+   /*img src="url('{{ site.baseurl }}/img/logoPICART_100px.png')";*/
 }
 
 .navbar-default .navbar-brand:hover,

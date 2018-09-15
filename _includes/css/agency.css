@@ -185,6 +185,8 @@ fieldset[disabled] .btn-xl.active {
 }
                                                                      /*---------ADD--------*/
 .navbar-default .navbar-brand {   
+   height:20px;
+   width:20px
  /*   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }}; */
   /* background-image: url('PicArt-it.github.io/img/logos/wordpress.jpg');   /* '{{ site.baseurl }}/img/logoPICART_100px.png'); */

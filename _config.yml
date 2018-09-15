@@ -20,9 +20,9 @@ description: "Write an awesome description for your new site here. You can edit 
    # - title: #stack-overflow
    #   url: #
 people:
-- name: Larry Parker
-  pic: 3
-  position: Lead Marketer
+- name: Stefano P
+  pic: 6
+  position: WebMaster<br>Web Marketing
   social:
     - title: twitter
       url: #
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Tiziano WoW
   pic: 3
   position: Lead Developer
   social:

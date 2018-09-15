@@ -186,10 +186,10 @@ fieldset[disabled] .btn-xl.active {
                                                                      /*---------ADD--------*/
 .navbar-default .navbar-brand {   
  /*   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }}; 
-   /* background-image: url('{{ site.baseurl }}/img/logos/envato.jpg'); */
+    color: #{{ site.data.template.color.primary }}; */
+   background-image: url('{{ site.baseurl }}/img/logoPICART_100px.png'); 
    border-radius: 8px;
-   /*img src="url('{{ site.baseurl }}/img/logoPICART_100px.png')";*/
+  
 }
 
 .navbar-default .navbar-brand:hover,

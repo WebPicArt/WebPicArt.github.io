@@ -22,24 +22,24 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Stefano P
   pic: 6
-  position: WebMaster<br>Web Marketing
+  position: Web Master<br>Web Marketing
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: linkedin
+    - title: dribbble#linkedin
       url: #
 
 - name: Tiziano WoW
-  pic: 3
-  position: Lead Developer
+  pic: 5
+  position: Graphic Designer<br>Video Maker
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: dribbble #google-plus
+    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

@@ -287,7 +287,7 @@ header {
     
     text-align: center;
     color: #fff;
-    /*background-attachment: scroll;*/
+    background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
@@ -302,7 +302,7 @@ header {
     /*transform: translateZ(-1px);*/
    /* position: fixed; */
     z-index : -1;
-    background-attachment: fixed;               /*-----ADD------*/
+    /*background-attachment: fixed;               /*-----ADD------*/
 }
 
 header .intro-text {

@@ -187,8 +187,8 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {   
  /*   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }}; */
-   background-image: url('PicArt-it.github.io/img/logos/wordpress.jpg');   /* '{{ site.baseurl }}/img/logoPICART_100px.png'); */
-   background-repeat: none;  
+  /* background-image: url('PicArt-it.github.io/img/logos/wordpress.jpg');   /* '{{ site.baseurl }}/img/logoPICART_100px.png'); */
+  /* background-repeat: none;  */
 }
 
 .navbar-default .navbar-brand:hover,

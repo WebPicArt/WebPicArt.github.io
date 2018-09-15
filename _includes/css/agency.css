@@ -188,6 +188,7 @@ fieldset[disabled] .btn-xl.active {
  /*   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }}; 
    /* background-image: url('{{ site.baseurl }}/img/logos/envato.jpg'); */
+   border-radius: 8px;
 }
 
 .navbar-default .navbar-brand:hover,

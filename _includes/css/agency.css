@@ -188,14 +188,7 @@ fieldset[disabled] .btn-xl.active {
  /*   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }}; */
    background-image: url('PicArt-it.github.io/img/logos/wordpress.jpg');   /* '{{ site.baseurl }}/img/logoPICART_100px.png'); */
-   background-position: center center;
-   background-repeat: none;
-   -webkit-background-size: cover;
-   -moz-background-size: cover;
-   background-size: cover;
-   -o-background-size: cover;
-  
-  
+   background-repeat: none;  
 }
 
 .navbar-default .navbar-brand:hover,

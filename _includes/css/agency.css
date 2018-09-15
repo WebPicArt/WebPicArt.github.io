@@ -292,7 +292,7 @@ header {
     width: 100%;
     /*transform: translateZ(-1px);*/
     position: fixed;
-    z-index : -10;
+    z-index : -1;
     /*background-attachment: fixed;               /*-----ADD------*/
 }
 

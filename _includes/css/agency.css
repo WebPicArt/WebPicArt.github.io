@@ -294,7 +294,7 @@ header {
     /*transform: translateZ(-1px);*/
     position: fixed;
     z-index : -1;
-   /* background-attachment: fixed;               /*-----ADD------*/
+    background-attachment: fixed;               /*-----ADD------*/
 }
 
 header .intro-text {

@@ -4,7 +4,7 @@ baseurl: /PicArt-it.github.io/
 # Site settings
 logo: PicArt-it.github.io/img/logoPICART_100px.png
 title: picArt
-email: stefano.pica73@gmail.com
+email: picart.it.com
 description: "Una nuova Agenzia LabWeb-2.0-Agency Realizzazione siti web dinamici, responsive, professionali e moderni. ChatBot e Campagne Social Marketing "
 
 
@@ -21,7 +21,7 @@ description: "Una nuova Agenzia LabWeb-2.0-Agency Realizzazione siti web dinamic
    # - title: #stack-overflow
    #   url: #
 people:
-- name: Stefano P
+- name: Stefano UP
   pic: 6
   position: Web Master<br>Web Marketing
   social:

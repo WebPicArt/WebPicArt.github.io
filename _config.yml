@@ -1,10 +1,10 @@
-url: https://github.com/PicArt-it/PicArt-it.github.io
-baseurl: /PicArt-it.github.io/
+url: https://github.com/WebPicArt/WebPicArt.github.io
+baseurl: /WebPicArt.github.io/
 
 # Site settings
-logo: PicArt-it.github.io/img/logoPICART_100px.png
+logo: WebPicArt.github.io/img/logoPICART_100px.png
 title: picArt
-email: picart.it@gmail.com
+email: webpicart@gmail.com
 description: "Una nuova Agenzia LabWeb-2.0-Agency Realizzazione siti web dinamici, responsive, professionali e moderni. ChatBot e Campagne Social Marketing "
 
 

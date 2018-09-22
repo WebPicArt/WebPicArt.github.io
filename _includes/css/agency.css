@@ -185,7 +185,7 @@ fieldset[disabled] .btn-xl.active {
 }
                                                                      /*---------ADD--------*/
 .navbar-default .navbar-brand {   
-   height:10px;
+   height:1px;
    width:1px;
  /*   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }}; */

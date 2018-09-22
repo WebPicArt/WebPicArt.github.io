@@ -1,6 +1,6 @@
 User-agent: *
 Disallow:
-Sitemap: http://webpicart.github.io/.github.io/sitemap.xml
+Sitemap: http://webpicart.github.io/sitemap.xml
 ################################# ROBOTS.TXT ###################################
 #                                                                              #
 # Alphabetically ordered whitelisting of legitimate web robots, which obey the #

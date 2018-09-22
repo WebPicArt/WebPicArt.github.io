@@ -185,8 +185,8 @@ fieldset[disabled] .btn-xl.active {
 }
                                                                      /*---------ADD--------*/
 .navbar-default .navbar-brand {  
-   padding-top: 50px ;
-   padding-bottom: 0px; 
+   padding-top: 0px ;
+   padding-bottom: 5px; 
    height:10px;
    widows:10px;
  /*   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;

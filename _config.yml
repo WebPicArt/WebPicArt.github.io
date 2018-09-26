@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 url: https://github.com/WebPicArt/WebPicArt.github.io
 baseurl: /WebPicArt.github.io/
 
@@ -9,6 +10,29 @@ description: "Una nuova Agenzia LabWeb-2.0-Agency Realizzazione siti web dinamic
 
 
 # Team names, titles and social links
+=======
+url: https://tryandfork.github.io/PicArt.github.io
+baseurl: /PicArt.github.io/
+
+# Site settings
+title: PicArt
+email: stefano.pica73@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+- name: #Kay Garland
+  pic: #1
+  position: #Lead Designer
+  social:
+    - title: #twitter
+      url: #
+    - title: #facebook
+      url: #
+    - title: #stack-overflow
+      url: #
+>>>>>>> PicArt-it/gh-pages
 
 #- name: #Kay Garland
  # pic: #1
@@ -40,7 +64,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: website #dribbble#google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -58,8 +82,13 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+<<<<<<< HEAD
   - line: Renato Fucini
   - line: Rome, IT 00100
+=======
+  - line: Via Renato
+  - line: Roma 00137 Italy
+>>>>>>> PicArt-it/gh-pages
 
 # Build settings
 markdown: kramdown

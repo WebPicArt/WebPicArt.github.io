@@ -278,14 +278,19 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+<<<<<<< HEAD
 header {
     
+=======
+header {                        
+>>>>>>> PicArt-it/gh-pages
     text-align: center;
     color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
+<<<<<<< HEAD
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -298,6 +303,12 @@ header {
    /* position: fixed; */
     z-index : -1;
     /*background-attachment: fixed;               /*-----ADD------*/
+=======
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100% ; /*cover;*/   /*! aggiunto io max image */
+    -o-background-size: 100% 100%;
+>>>>>>> PicArt-it/gh-pages
 }
 
 header .intro-text {
@@ -323,8 +334,12 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+<<<<<<< HEAD
               
  @media(min-width:768px) {              
+=======
+@media(min-width:768px ) {
+>>>>>>> PicArt-it/gh-pages
    
     header .intro-text {
        padding-top: 300px;  
@@ -348,6 +363,7 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;                                              
     }
+           
 }
 
 section {

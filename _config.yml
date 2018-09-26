@@ -1,38 +1,14 @@
-<<<<<<< HEAD
 url: https://github.com/WebPicArt/WebPicArt.github.io
 baseurl: /WebPicArt.github.io/
 
  # Site settings
 logo: WebPicArt.github.io/img/logoPICART_100px.png
-title: WebPicArt
+title: WebPicArt | Agenzia Web Marketing | Agenzia SEO
 email: webpicart@gmail.com
-description: "Una nuova Agenzia LabWeb-2.0-Agency Realizzazione siti web dinamici, responsive, professionali e moderni. ChatBot e Campagne Social Marketing "
+description: "Una nuova Agenzia Web-3.0-Agency Realizzazione siti web dinamici, responsive, professionali e moderni. ChatBot e Campagne Social Marketing "
 
 
 # Team names, titles and social links
-=======
-url: https://tryandfork.github.io/PicArt.github.io
-baseurl: /PicArt.github.io/
-
-# Site settings
-title: PicArt
-email: stefano.pica73@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
-
-# Team names, titles and social links
-people:
-- name: #Kay Garland
-  pic: #1
-  position: #Lead Designer
-  social:
-    - title: #twitter
-      url: #
-    - title: #facebook
-      url: #
-    - title: #stack-overflow
-      url: #
->>>>>>> PicArt-it/gh-pages
 
 #- name: #Kay Garland
  # pic: #1

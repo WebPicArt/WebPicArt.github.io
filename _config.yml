@@ -58,13 +58,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-<<<<<<< HEAD
   - line: Renato Fucini
   - line: Rome, IT 00100
-=======
-  - line: Via Renato
-  - line: Roma 00137 Italy
->>>>>>> PicArt-it/gh-pages
 
 # Build settings
 markdown: kramdown
